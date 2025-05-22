@@ -1,6 +1,6 @@
 # 🚗 LaWash Smart Parking Backend (IoT)
 
-Backend API for managing a smart parking lot system that integrates with IoT devices (e.g., ESP32) to track vehicle occupancy in real time.
+Backend API for managing a smart parking lot system that integrates with IoT devices (e.g., Raspberry PI) to track vehicle occupancy in real time.
 
 Built using **ASP.NET Core 8**, following **Clean Architecture**, **SOLID principles**, and **Domain-Driven Design (DDD)** patterns.
 
