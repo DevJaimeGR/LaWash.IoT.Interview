@@ -18,6 +18,10 @@ LaWash.IoT <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── API.Tests → Controller-level tests (mocked IParkingApplication) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── Application.Tests → Business logic tests (mocked IUnitOfWork, IRateLimiter) <br>
 
+---
+## 🧠 Entity-Relationship Model
+
+![image](https://github.com/user-attachments/assets/7a8ac7b6-8b3a-4421-a0fa-d848ee53769b)
 
 ---
 
